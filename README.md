@@ -1,7 +1,5 @@
 ### Hi there 👋
-I am a student of Computer Science
-in IFB and in my free times a make a
-coffe and study math or phisics.
+I am a Data Scientist Junior, currently internship in ANVISA. I realized in this internship the process extraction, load and tranformation of data(ETL) using python. Create aplications utilized Power Apps to automated process in GGFIS. I have knowleadge in Python, R and Julia.
 
 ## Links
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/RaulLima2)
