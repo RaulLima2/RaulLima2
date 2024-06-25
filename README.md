@@ -1,5 +1,10 @@
 ## Hi there 👋
-I am a Data Scientist Junior, currently internship in ANVISA. I realized in this internship the process extraction, load and tranformation of data(ETL) using python. Create aplications utilized Power Apps to automated process in GGFIS. I have knowleadge in Python, R and Julia.
+Data Scientist with 3 years of experience, creating ETL processes and conducting EDA for the team using Python and R, utilizing VBA and Power Query for basic transformations.
+Implemented web scraping techniques for process automation, which was previously done manually throughout the week. 
+Engaged in projects involving data collection, data transformation, code efficiency analysis, algorithm enhancement, and participation in IT demand assessment. 
+Recently, automated the Cargo Theft and Loss process to expedite weekly publication, utilizing Power Query for data transformation and the Lime Survey tool. 
+Automated the ETL process for data from the Anvisa consultation website, to be later visualized using Power BI. 
+Currently, I am also exploring new Visualization tools (Qlik, Data Studio, Tableau, Dash).
 
 ## Links
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/RaulLima2)
